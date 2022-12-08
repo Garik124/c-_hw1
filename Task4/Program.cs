@@ -2,7 +2,7 @@
 int current;
 for (current = 1; current < N + 1; current++)
 {
-    if (current % 2 == 0);
+    if (current % 2 == 0)
     {
         Console.WriteLine(current + " ");
     }
